@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "410157228237",
+    "firebase_url": "https://agnipathchats.firebaseio.com",
+    "project_id": "agnipathchats",
+    "storage_bucket": "agnipathchats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410157228237:android:effad6b196be829c",
+        "android_client_info": {
+          "package_name": "com.lavanya.firebase_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410157228237-1fs3fkbm57qn4hp133uijdpmhqqdan8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lavanya.firebase_kotlin",
+            "certificate_hash": "9ae10b4ed0e78eaaf384dfeba745b2e6210d180b"
+          }
+        },
+        {
+          "client_id": "410157228237-fprdb4jcasvni5uoc8l75j4kudkao4d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCJJy0x0lQWeq2R1yy4SyZWwZTRBK6ASY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410157228237-fprdb4jcasvni5uoc8l75j4kudkao4d2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
