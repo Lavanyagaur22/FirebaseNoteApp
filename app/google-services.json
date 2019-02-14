@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "747326760655",
-    "firebase_url": "https://chatsfirebase-38be4.firebaseio.com",
-    "project_id": "chatsfirebase-38be4",
-    "storage_bucket": "chatsfirebase-38be4.appspot.com"
+    "project_number": "1038253576449",
+    "firebase_url": "https://fir-kotlinprojects.firebaseio.com",
+    "project_id": "fir-kotlinprojects",
+    "storage_bucket": "fir-kotlinprojects.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:747326760655:android:effad6b196be829c",
+        "mobilesdk_app_id": "1:1038253576449:android:effad6b196be829c",
         "android_client_info": {
           "package_name": "com.lavanya.firebase_kotlin"
         }
       },
       "oauth_client": [
         {
-          "client_id": "747326760655-qc30blarsomnd3debpdsu30j17tkf8g0.apps.googleusercontent.com",
+          "client_id": "1038253576449-265eqdrlvmagteo1tf9ekr1pvffdv0nj.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.lavanya.firebase_kotlin",
@@ -23,13 +23,13 @@
           }
         },
         {
-          "client_id": "747326760655-tf5v0fdecbjjed1qrm77birjtu80fral.apps.googleusercontent.com",
+          "client_id": "1038253576449-ol5urk41tsp8bjakcr5cpf1ue0mfb6lc.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBJoc5dH7ikR4Yn2QePTIJqY_VZuqgPw98"
+          "current_key": "AIzaSyA0DY5wgwJc-tNn6inOrgZg5jWMymgiheA"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "747326760655-tf5v0fdecbjjed1qrm77birjtu80fral.apps.googleusercontent.com",
+              "client_id": "1038253576449-ol5urk41tsp8bjakcr5cpf1ue0mfb6lc.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
